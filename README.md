@@ -3,7 +3,7 @@ Redshift Dawn(tm) Version INDEV Copyright 2023
 
 Welcome to early access! Please report any issues to magnistiganson@gmail.com, or report them in the discord server. I am not responsible for any damages caused by this software!
 
-Fathom engine is a game engine written in python3
+written in python3
 
 Licensing You may use, modify, and distrubute the source code in any way you wish, However you may not include any assets from the Redshift Dawn game. Aditionaly, you may not impersonate me to distribute a modified verson of the source code. If you have any questions relating to the game, or its engine, please contact me at magnistiganson@gmail.com.
 
